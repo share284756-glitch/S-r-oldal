@@ -1,0 +1,4 @@
+*{box-sizing: border-box;font-family: Arial,Verdana,sans-serif;color:beige;font-size: 10pt;margin: 0px;padding: 0px;}
+body{background-image: url('design/teglafal.jpg');}
+#fotartalom{width: 80%;max-width: 1000px;background-color: #333333;}
+header{background-image: url('design/beer-new_401732638.jpg');height: 300px;background-size: cover;}
